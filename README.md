@@ -3,18 +3,22 @@
 本项目收集中国政府政策发布信息源，欢迎大家来补充！
 
 正在整理中。。。欢迎补充~
+```
+xxx部 |[主页](链接) | [信息公开栏目](链接) 
+|[主页]() | [栏目]() 
+```
 
 ## 国务院
 
-1. 中华人民共和国国务院/中华人民共和国国务院办公厅 | [主页](https://www.gov.cn/) | [政策栏目](http://sousuo.gov.cn/column/30469/0.htm)
+1. 中华人民共和国国务院/中华人民共和国国务院办公厅 | [主页](https://www.gov.cn/) | [政策](http://sousuo.gov.cn/column/30469/0.htm)
 
 
 >说明：网站只显示2016年以后的数据，其它的需要通过文件库进行搜索。网址：http://www.gov.cn/zhengce/zhengcewenjianku/index.htm
 
 ## 国务院组成部门:
 
-2. 中华人民共和国外交部
-3. 中华人民共和国国家发展和改革委员会
+2. 中华人民共和国外交部 |[主页](https://www.fmprc.gov.cn/) | [信息公开](https://www.fmprc.gov.cn/web/wjb_673085/zfxxgk_674865/gknrlb/zcfg/) 
+3. 中华人民共和国国家发展和改革委员会 |[主页](https://www.ndrc.gov.cn/) | [政务公开](https://www.ndrc.gov.cn/xxgk/)  | [文件库](https://www.ndrc.gov.cn/xxgk/wjk) 
 4. 中华人民共和国科学技术部
 5. 中华人民共和国国家民族事务委员会
 6. 中华人民共和国国家安全部
