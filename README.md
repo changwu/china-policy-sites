@@ -54,18 +54,18 @@
 32. 国家国际发展合作署 | [主页](http://www.cidca.gov.cn/) | [法规政策](http://www.cidca.gov.cn/fgzd.htm) 
 33. 国务院参事室 | [主页](http://www.counsellor.gov.cn/) | [法规文件](http://www.counsellor.gov.cn/fgwj.htm) | [文件解读](http://www.counsellor.gov.cn/wjjd.htm) 
 34. 国家税务总局 | [主页](http://www.chinatax.gov.cn/) | [税收政策](http://www.chinatax.gov.cn/chinatax/n810341/index.html) 
-35. 国家广播电视总局 | [主页]() | [栏目]() 
-36. 国家统计局 | [主页]() | [栏目]() 
-37. 国家医疗保障局 | [主页]() | [栏目]() 
-38. 国家机关事务管理局 | [主页]() | [栏目]() 
+35. 国家广播电视总局 | [主页](http://www.nrta.gov.cn/) | [部门规章](http://www.nrta.gov.cn/col/col1588/index.html)  | [规范性文件](http://www.nrta.gov.cn/col/col2062/index.html)  | [政策解读](http://www.nhsa.gov.cn/col/col37/index.html) 
+36. 国家统计局 | [主页](http://www.stats.gov.cn/) | [政策](http://www.stats.gov.cn/xxgk/list1.html) （包括法规和规范）
+37. 国家医疗保障局 | [主页](http://www.nhsa.gov.cn/) | [政策法规](http://www.nhsa.gov.cn/col/col37/index.html)  | [政策解读](http://www.nhsa.gov.cn/col/col38/index.html) 
+38. 国家机关事务管理局 | [主页](http://www.ggj.gov.cn/) | [法律法规](http://www.ggj.gov.cn/zcfg/flfg/)  | [部门规章](http://www.ggj.gov.cn/zcfg/bmgz/)  | [规范性文件](http://www.ggj.gov.cn/zcfg/fgxwj/)  | [政策解读](http://www.ggj.gov.cn/zcfg/zcjd/) 
 
 >说明：国家市场监督管理总局对外保留国家认证认可监督管理委员会、国家标准化管理委员会牌子。国家新闻出版署（国家版权局）在中央宣传部加挂牌子，由中央宣传部承担相关职责。国家宗教事务局在中央统战部加挂牌子，由中央统战部承担相关职责。
 
 
 ## 国务院办事机构：
 
-39. 国务院港澳事务办公室 | [主页]() | [栏目]() 
-40. 国务院研究室 | [主页]() | [栏目]() 
+39. 国务院港澳事务办公室 | [主页](https://www.hmo.gov.cn/) | [政策法规](https://www.hmo.gov.cn/zcfg_new/xf/)  （包括宪法及宪法相关法|基本法及相关法律文件|与港澳有关的政策法规|在港澳特区实施的全国性法律|文献条约）
+40. 国务院研究室 | [主页](http://www.gov.cn/gjjg/2005-12/26/content_137261.htm) （仅简单主页）
 
 >说明：国务院侨务办公室在中央统战部加挂牌子，由中央统战部承担相关职责。国务院台湾事务办公室与中共中央台湾工作办公室、国家互联网信息办公室与中央网络安全和信息化委员会办公室，一个机构两块牌子，列入中共中央直属机构序列。国务院新闻办公室在中央宣传部加挂牌子。
 
