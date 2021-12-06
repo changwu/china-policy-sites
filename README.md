@@ -87,16 +87,16 @@
 
 ## 国务院部委管理的国家局：
 
-50. 国家信访局（由国务院办公厅管理） | [主页]() | [栏目]() 
-51. 国家能源局（由国家发展和改革委员会管理） | [主页]() | [栏目]() 
-52. 国家烟草专卖局（由工业和信息化部管理） | [主页]() | [栏目]() 
-53. 国家林业和草原局（由自然资源部管理） | [主页]() | [栏目]() 
-54. 中国民用航空局（由交通运输部管理） | [主页]() | [栏目]() 
-55. 国家文物局（由文化和旅游部管理） | [主页]() | [栏目]() 
-56. 国家矿山安全监察局（由应急管理部管理） | [主页]() | [栏目]() 
-57. 国家药品监督管理局（由国家市场监督管理总局管理） | [主页]() | [栏目]() 
-58. 国家粮食和物资储备局（由国家发展和改革委员会管理） | [主页]() | [栏目]() 
-59. 国家国防科技工业局（由工业和信息化部管理）
+50. 国家信访局（由国务院办公厅管理） | [主页](https://www.gjxfj.gov.cn) | [法规文件](https://www.gjxfj.gov.cn/gjxfj/fgwj/index.htm)  | [信访条例](https://www.gjxfj.gov.cn/gjxfj/fgwj/xftl.htm)  | [规范性文件](https://www.gjxfj.gov.cn/gjxfj/fgwj/gfxwj.htm)  | [政策解读](https://www.gjxfj.gov.cn/gjxfj/fgwj/zcjd.htm)  | [国务院文件](https://www.gjxfj.gov.cn/gjxfj/fgwj/gwywj.htm) 
+51. 国家能源局（由国家发展和改革委员会管理） | [主页](http://www.nea.gov.cn/) | [最新文件](http://www.nea.gov.cn/policy/zxwj.htm)  | [通知](http://www.nea.gov.cn/policy/tz.htm)  | [公告](http://www.nea.gov.cn/policy/gg.htm)  | [项目核准](http://www.nea.gov.cn/policy/xmsp.htm)  | [解读](http://www.nea.gov.cn/policy/jd.htm)   | [其他](http://www.nea.gov.cn/policy/qt.htm) 
+52. 国家烟草专卖局（由工业和信息化部管理） | [主页](http://www.tobacco.gov.cn/) | [行政规范文件](http://www.tobacco.gov.cn/gjyc/xzgfwj/xxgk_gknr_list.shtml)  | [政策文件库](http://www.tobacco.gov.cn/gjyc/zcwjk/zck.shtml?tab=zcwj) 
+53. 国家林业和草原局（由自然资源部管理） | [主页](http://www.forestry.gov.cn/) | [政策公告 > 国务院文件](http://www.forestry.gov.cn/main/4815/index.html)  | [政策公告 > 林草政策](http://www.forestry.gov.cn/main/5461/index.html) | [公示公告](http://www.forestry.gov.cn/main/4461/index.html)  | [规范性文件](http://www.forestry.gov.cn/sites/main/main/gfxwj/gfxwj-list.jsp) 
+54. 中国民用航空局（由交通运输部管理） | [主页](http://www.caac.gov.cn) | [政策发布](http://www.caac.gov.cn/XXGK/XXGK/index_172.html?fl=10) （包括多个法定主动公开内容栏目）
+55. 国家文物局（由文化和旅游部管理） | [主页](http://www.ncha.gov.cn/) | [法定主动公开内容](http://www.ncha.gov.cn/col/col2237/index.html?id=0) （0-19）
+56. 国家矿山安全监察局（由应急管理部管理） | [主页](https://www.chinamine-safety.gov.cn/) | [法定主动公开内容](https://www.chinamine-safety.gov.cn/zfxxgk/fdzdgknr/tzgg/) 
+57. 国家药品监督管理局（由国家市场监督管理总局管理） | [主页](https://www.nmpa.gov.cn/) | [法规文件](https://www.nmpa.gov.cn/xxgk/fgwj/index.html) （包括：法律行政法规，部门规章，工作文件，其他）
+58. 国家粮食和物资储备局（由国家发展和改革委员会管理） | [主页](http://www.lswz.gov.cn) | [法定主动公开内容](http://www.lswz.gov.cn/html/zfxxgk/fdzdgknr.shtml) （包括：机构信息，政策法规，粮食调控，规划建设，统计信息，行政许可，财务信息，扶贫信息，监督检查，人事人才，标准质量，综合信息）
+59. 国家国防科技工业局（由工业和信息化部管理） | [主页](http://www.sastind.gov.cn/) | [栏目]() 
 60. 国家移民管理局（由公安部管理） | [主页]() | [栏目]() 
 61. 国家铁路局（由交通运输部管理） | [主页]() | [栏目]() 
 62. 国家邮政局（由交通运输部管理） | [主页]() | [栏目]() 
