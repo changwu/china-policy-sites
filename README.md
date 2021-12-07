@@ -96,13 +96,13 @@
 56. 国家矿山安全监察局（由应急管理部管理） | [主页](https://www.chinamine-safety.gov.cn/) | [法定主动公开内容](https://www.chinamine-safety.gov.cn/zfxxgk/fdzdgknr/tzgg/) 
 57. 国家药品监督管理局（由国家市场监督管理总局管理） | [主页](https://www.nmpa.gov.cn/) | [法规文件](https://www.nmpa.gov.cn/xxgk/fgwj/index.html) （包括：法律行政法规，部门规章，工作文件，其他）
 58. 国家粮食和物资储备局（由国家发展和改革委员会管理） | [主页](http://www.lswz.gov.cn) | [法定主动公开内容](http://www.lswz.gov.cn/html/zfxxgk/fdzdgknr.shtml) （包括：机构信息，政策法规，粮食调控，规划建设，统计信息，行政许可，财务信息，扶贫信息，监督检查，人事人才，标准质量，综合信息）
-59. 国家国防科技工业局（由工业和信息化部管理） | [主页](http://www.sastind.gov.cn/) | [栏目]() 
-60. 国家移民管理局（由公安部管理） | [主页]() | [栏目]() 
-61. 国家铁路局（由交通运输部管理） | [主页]() | [栏目]() 
-62. 国家邮政局（由交通运输部管理） | [主页]() | [栏目]() 
-63. 国家中医药管理局（由国家卫生健康委员会管理） | [主页]() | [栏目]() 
-64. 国家外汇管理局（由中国人民银行管理）
-65. 国家知识产权局（由国家市场监督管理总局管理） | [主页]() | [栏目]() 
+59. 国家国防科技工业局（由工业和信息化部管理） | [主页](http://www.sastind.gov.cn/) | [国防科技工业相关政策文件	](http://www.sastind.gov.cn/n4235/n6654336/index.html) 
+60. 国家移民管理局（由公安部管理） | [主页](https://www.nia.gov.cn/) | [政策文件](https://www.nia.gov.cn/n741440/n741547/index.html)  | [政策解读](https://www.nia.gov.cn/n741440/n741577/index.html) 
+61. 国家铁路局（由交通运输部管理） | [主页](http://www.nra.gov.cn/) | [行政许可](http://www.nra.gov.cn/wsbs/xzxk/xzxkxm/) （包括：权力清单，规章制度，许可公告，行政审批中介服务事项清单） | [监管履职](http://www.nra.gov.cn/jgzf/) 
+62. 国家邮政局（由交通运输部管理） | [主页](http://www.spb.gov.cn/) | [政策](http://www.spb.gov.cn/zc/) （包括：法律法规及政策、规划及科技标准、决策解读）
+63. 国家中医药管理局（由国家卫生健康委员会管理） | [主页](http://www.satcm.gov.cn/) | [政策文件](http://www.satcm.gov.cn/zhengcewenjian/) （包括：政策文件、法律法规、政策解读）
+64. 国家外汇管理局（由中国人民银行管理） | [主页](http://www.safe.gov.cn/safe/index.html) | [政策法规](http://www.safe.gov.cn/safe/zcfg/index.html) （包括7个2级分类）
+65. 国家知识产权局（由国家市场监督管理总局管理） | [主页](https://www.cnipa.gov.cn/) | [政策文件](https://www.cnipa.gov.cn/col/col74/index.html)  | [政策解读](https://www.cnipa.gov.cn/col/col66/index.html) 
 
 
 >说明：国家移民管理局加挂中华人民共和国出入境管理局牌子。国家林业和草原局加挂国家公园管理局牌子。国家公务员局在中央组织部加挂牌子，由中央组织部承担相关职责。国家档案局与中央档案馆、国家保密局与中央保密委员会办公室、国家密码管理局与中央密码工作领导小组办公室，一个机构两块牌子，列入中共中央直属机关的下属机构序列。
