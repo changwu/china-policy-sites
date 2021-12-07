@@ -71,6 +71,11 @@
 
 >说明：国务院侨务办公室在中央统战部加挂牌子，由中央统战部承担相关职责。国务院台湾事务办公室与中共中央台湾工作办公室、国家互联网信息办公室与中央网络安全和信息化委员会办公室，一个机构两块牌子，列入中共中央直属机构序列。国务院新闻办公室在中央宣传部加挂牌子。
 
+1. 国务院侨务办公室 | [主页](https://www.gqb.gov.cn/) | [政策法规](http://www.gqb.gov.cn/gqb/zcfg/index.shtml)  | [侨务问答](http://www.gqb.gov.cn/gqb/qwwd/index.shtml) 
+2. 国务院台湾事务办公室与中共中央台湾工作办公室 | [主页](http://www.gwytb.gov.cn/) | [政策措施](http://www.gwytb.gov.cn/zccs/) （包括政策错误、办事指南）
+3. 国家互联网信息办公室与中央网络安全和信息化委员会办公室 | [主页](http://www.cac.gov.cn/) | [权威发布](http://www.cac.gov.cn/qwfb/A0903index_1.htm) （包括：中央精神，相关部门发布，办公室发布） | [信息化](http://www.cac.gov.cn/xxh/A0906index_1.htm) （包括：规划政策，信息化工作动态） | [政策法规](http://www.cac.gov.cn/zcfg/xzfg/A090902index_1.htm) （包括：法律，行政法规，部门规章，司法解释，规范性文件，政策文件）
+4. 国务院新闻办公室 | [主页](http://www.scio.gov.cn/index.htm) | [政府白皮书](http://www.scio.gov.cn/zfbps/index.htm) 
+
 
 ## 国务院直属事业单位：
 
