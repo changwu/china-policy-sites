@@ -1,132 +1,31 @@
 # 中国政府政策发布信息源
 
-本项目旨在收集中国政府政策发布信息源，目前已经完成中国政府部委的信息发布源网址，接下来将进行省市一级信息发布源收集。这是一个工作量较大的工作，欢迎有兴趣的伙伴们加入，一起整理维护。
-
-## 国务院
-
-1. 中华人民共和国国务院/中华人民共和国国务院办公厅 | [主页](https://www.gov.cn/) | [政策](http://sousuo.gov.cn/column/30469/0.htm) | [文件库](http://www.gov.cn/zhengce/zhengcewenjianku/index.htm)（可以搜索到2016年以前的数据）
-
-## 国务院组成部门:
-
-2. 中华人民共和国外交部 | [主页](https://www.fmprc.gov.cn/) | [信息公开](https://www.fmprc.gov.cn/web/wjb_673085/zfxxgk_674865/gknrlb/zcfg/) 
-3. 中华人民共和国国家发展和改革委员会 | [主页](https://www.ndrc.gov.cn/) | [政务公开](https://www.ndrc.gov.cn/xxgk/)  | [文件库](https://www.ndrc.gov.cn/xxgk/wjk) 
-4. 中华人民共和国科学技术部 | [主页](http://www.most.gov.cn/) | [科技政策](http://www.most.gov.cn/kjzc/) 
-5. 中华人民共和国国家民族事务委员会 | [主页](http://www.neac.gov.cn/) | [政府信息公开](http://www.neac.gov.cn/seac/xxgk/index.shtml) 
-6. 中华人民共和国国家安全部 | [主页](https://www.12339.gov.cn/) | [栏目]()
-7. 中华人民共和国司法部 | [主页]() | [法律法规](https://www.12339.gov.cn/article/law)
-8. 中华人民共和国人力资源和社会保障部 | [主页](http://www.mohrss.gov.cn/) | [信息公开](http://www.mohrss.gov.cn//xxgk2020/)
-9. 中华人民共和国生态环境部 | [主页](https://www.mee.gov.cn/) | [政策文件](https://www.mee.gov.cn/zcwj/)
-10. 中华人民共和国交通运输部 | [主页](https://www.mot.gov.cn/) | [政策](https://www.mot.gov.cn/zhengce/)
-11. 中华人民共和国农业农村部 | [主页](http://www.moa.gov.cn/) | [公开](http://www.moa.gov.cn/gk/)
-12. 中华人民共和国文化和旅游部 | [主页](https://www.mct.gov.cn/) | [政府信息公开](http://zwgk.mct.gov.cn/zfxxgkml/447/458/463/index_3081.html)
-13. 中华人民共和国退役军人事务部 | [主页](http://www.mva.gov.cn/) | [政策解读](http://www.mva.gov.cn/jiedu/zcjd/)
-14. 中国人民银行 | [主页](http://www.pbc.gov.cn/) | [政策解读](http://www.pbc.gov.cn/rmyh/3963412/index.html) | [政策文件](http://www.pbc.gov.cn/zhengwugongkai/4081330/4081344/4081395/4081686/index.html) | [条法司](http://www.pbc.gov.cn/tiaofasi/144941/index.html) | [货币政策](http://www.pbc.gov.cn/rmyh/105145/index.html) | [政策法规](http://www.pbc.gov.cn/jinrongshichangsi/147160/147289/147301/index.html)
-15. 中华人民共和国国防部 | [主页](http://www.mod.gov.cn/) | [法规文献](http://www.mod.gov.cn/regulatory/index.htm)
-16. 中华人民共和国教育部 | [主页](http://www.moe.gov.cn/) | [政策解读](http://www.moe.gov.cn/jyb_xwfb/s271/) | [教育部文件](http://www.moe.gov.cn/was5/web/search?channelid=239993)  （还有中央文件、其它部分文件两个子栏目）
-17. 中华人民共和国工业和信息化部 | [主页](https://wap.miit.gov.cn/) | [政策文件](https://wap.miit.gov.cn/search/wjfb.html?websiteid=110000000000000&pg=&p=&tpl=14&category=51&q=)
-18. 中华人民共和国公安部 | [主页](https://8221110.com/) | [政策文件](https://8221110.com/n6557558/index.html) | [政策解读](https://8221110.com/n6557563/index.html)
-19. 中华人民共和国民政部 | [主页](http://www.mca.gov.cn/) | [政策文件](http://xxgk.mca.gov.cn:8011/gdnps/pc/index.jsp?mtype=1)
-20. 中华人民共和国财政部 | [主页](http://www.mof.gov.cn/index.htm) | [政策发布](http://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/) | [政策解读](http://www.mof.gov.cn/zhengwuxinxi/zhengcejiedu/)
-21. 中华人民共和国自然资源部 | [主页](http://www.mnr.gov.cn/) | [政策法规库](http://f.mnr.gov.cn/) | [政策解读](http://www.mnr.gov.cn/gk/zcjd/)
-22. 中华人民共和国住房和城乡建设部 | [主页](http://www.mohurd.gov.cn/) | [政策发布](http://www.mohurd.gov.cn/wjfb/index.html)
-23. 中华人民共和国水利部 | [主页](http://mwr.gov.cn/) | [政策法规](http://www.mwr.gov.cn/zw/zcfg/fl/) | [政策解读](http://www.mwr.gov.cn/zw/zcjd/)
-24. 中华人民共和国商务部 | [主页](http://www.mofcom.gov.cn/) | [政策发布](http://www.mofcom.gov.cn/article/zcfb/) | [政策解读](http://www.mofcom.gov.cn/article/zcjd/) | [政策图解](http://www.mofcom.gov.cn/article/tj/)
-25. 中华人民共和国国家卫生健康委员会 | [主页](http://www.nhc.gov.cn/) | [规范性文件](http://www.nhc.gov.cn/wjw/gfxwjj/list.shtml) | [政策解读](http://www.nhc.gov.cn/wjw/zcjd/list.shtml)
-26. 中华人民共和国应急管理部 | [主页](https://www.mem.gov.cn/) | [政策解读](https://www.mem.gov.cn/gk/zcjd/) | [法律法规标准](https://www.mem.gov.cn/fw/flfgbz/)
-27. 中华人民共和国审计署 | [主页](https://www.audit.gov.cn/) | [法律法规](https://www.audit.gov.cn/n6/n36/index.html)
- | [审计常用法律法规查询链接](https://www.audit.gov.cn/n6/n36/n10084378/c10091555/content.html) （常用法律法规包括20个链接，一些已经列举，可以单独做成法规库）
-
-## 国务院直属特设机构：
-
-28. 国务院国有资产监督管理委员会 | [主页](http://www.sasac.gov.cn/) | [政策](http://www.sasac.gov.cn/n2588035/n2588320/index.html)  | [政策解读](http://www.sasac.gov.cn/n2588035/n2588320/n2588340/index.html) 
-
-## 国务院直属机构：
-
-29. 中华人民共和国海关总署 | [主页](http://www.customs.gov.cn/) | [最新文件](http://www.customs.gov.cn/customs/302249/2480148/index.html)  | [海关法规](http://www.customs.gov.cn/customs/302249/302266/index.html)  | [政策解读](http://www.customs.gov.cn/customs/302249/302270/302272/index.html) 
-30. 国家市场监督管理总局 | [主页](https://www.samr.gov.cn/) | [总局文件](https://www.samr.gov.cn/zw/wjfb/) | [政策解读](https://www.samr.gov.cn/zw/wjfb/zdjd/) 
-31. 国家体育总局 | [主页](https://www.sport.gov.cn/) | [政策法规](http://www.sport.org.cn/search/system/) 
-32. 国家国际发展合作署 | [主页](http://www.cidca.gov.cn/) | [法规政策](http://www.cidca.gov.cn/fgzd.htm) 
-33. 国务院参事室 | [主页](http://www.counsellor.gov.cn/) | [法规文件](http://www.counsellor.gov.cn/fgwj.htm) | [文件解读](http://www.counsellor.gov.cn/wjjd.htm) 
-34. 国家税务总局 | [主页](http://www.chinatax.gov.cn/) | [税收政策](http://www.chinatax.gov.cn/chinatax/n810341/index.html) 
-35. 国家广播电视总局 | [主页](http://www.nrta.gov.cn/) | [部门规章](http://www.nrta.gov.cn/col/col1588/index.html)  | [规范性文件](http://www.nrta.gov.cn/col/col2062/index.html)  | [政策解读](http://www.nhsa.gov.cn/col/col37/index.html) 
-36. 国家统计局 | [主页](http://www.stats.gov.cn/) | [政策](http://www.stats.gov.cn/xxgk/list1.html) （包括法规和规范）
-37. 国家医疗保障局 | [主页](http://www.nhsa.gov.cn/) | [政策法规](http://www.nhsa.gov.cn/col/col37/index.html)  | [政策解读](http://www.nhsa.gov.cn/col/col38/index.html) 
-38. 国家机关事务管理局 | [主页](http://www.ggj.gov.cn/) | [法律法规](http://www.ggj.gov.cn/zcfg/flfg/)  | [部门规章](http://www.ggj.gov.cn/zcfg/bmgz/)  | [规范性文件](http://www.ggj.gov.cn/zcfg/fgxwj/)  | [政策解读](http://www.ggj.gov.cn/zcfg/zcjd/) 
-
->说明：国家市场监督管理总局对外保留国家认证认可监督管理委员会、国家标准化管理委员会牌子。国家新闻出版署（国家版权局）在中央宣传部加挂牌子，由中央宣传部承担相关职责。国家宗教事务局在中央统战部加挂牌子，由中央统战部承担相关职责。
-
-1. 国家认证认可监督管理委员会 | [主页](http://www.cnca.gov.cn/) | [政务](http://www.cnca.gov.cn/zw/) （包括：通知，公告，政策法规，部门规章，行政规范性文件，政策解读）
-2. 国家标准化管理委员会 | [主页](http://www.sac.gov.cn/) | [政策文件](http://www.sac.gov.cn/sxxgk/zcwj/) | [政策解读](http://www.sac.gov.cn/sxxgk/zcjd/) 
-3. 国家新闻出版署（国家版权局） | [主页](http://www.nppa.gov.cn/) | [政策法规](http://www.nppa.gov.cn/nppa/channels/308.shtml) （包括：法律，法规，部门规章，国际公约，规范性文件）
-4. 国家宗教事务局 | [主页](http://www.sara.gov.cn/)（访问403）
+本项目目标是收集中国政府政策发布信息源，即政策发布的官方网站。
 
 
-## 国务院办事机构：
+## 项目意义
 
-39. 国务院港澳事务办公室 | [主页](https://www.hmo.gov.cn/) | [政策法规](https://www.hmo.gov.cn/zcfg_new/xf/)  （包括宪法及宪法相关法|基本法及相关法律文件|与港澳有关的政策法规|在港澳特区实施的全国性法律|文献条约）
-40. 国务院研究室 | [主页](http://www.gov.cn/gjjg/2005-12/26/content_137261.htm) （仅简单主页）
+一是厘清政策来源研究政策公开程度，二是建立数据库用于研究者研究政策逻辑与科学，三是方便普通大众检索。这是一个工作量较大但意义非凡的工作，欢迎有兴趣的小伙伴加入，一起整理维护。
 
->说明：国务院侨务办公室在中央统战部加挂牌子，由中央统战部承担相关职责。国务院台湾事务办公室与中共中央台湾工作办公室、国家互联网信息办公室与中央网络安全和信息化委员会办公室，一个机构两块牌子，列入中共中央直属机构序列。国务院新闻办公室在中央宣传部加挂牌子。
+## 项目内容
 
-1. 国务院侨务办公室 | [主页](https://www.gqb.gov.cn/) | [政策法规](http://www.gqb.gov.cn/gqb/zcfg/index.shtml)  | [侨务问答](http://www.gqb.gov.cn/gqb/qwwd/index.shtml) 
-2. 国务院台湾事务办公室与中共中央台湾工作办公室 | [主页](http://www.gwytb.gov.cn/) | [政策措施](http://www.gwytb.gov.cn/zccs/) （包括政策错误、办事指南）
-3. 国家互联网信息办公室与中央网络安全和信息化委员会办公室 | [主页](http://www.cac.gov.cn/) | [权威发布](http://www.cac.gov.cn/qwfb/A0903index_1.htm) （包括：中央精神，相关部门发布，办公室发布） | [信息化](http://www.cac.gov.cn/xxh/A0906index_1.htm) （包括：规划政策，信息化工作动态） | [政策法规](http://www.cac.gov.cn/zcfg/xzfg/A090902index_1.htm) （包括：法律，行政法规，部门规章，司法解释，规范性文件，政策文件）
-4. 国务院新闻办公室 | [主页](http://www.scio.gov.cn/index.htm) | [政府白皮书](http://www.scio.gov.cn/zfbps/index.htm) 
+- [国家部委](国家部委.md)：65+15（加挂牌）(已完成）
+- [23个省、5个自治区和地级市](地级市.md)：23+5+294（地级市） = 322 （未完成）
+- [4个直辖市](直辖市.md)：4+86 = 92个，如果减去重庆的县，92-12 = 80（未完成）
 
 
-## 国务院直属事业单位：
+## 项目进展
 
-41. 新华通讯社 | [主页](http://203.192.6.89/xhs/xhsjj.htm) （仅简单主页）
-42. 中国社会科学院 | [主页](http://cass.cssn.cn/) 
-43. 国务院发展研究中心 | [主页](https://www.drc.gov.cn/)
-44. 中国气象局 | [主页](http://www.cma.gov.cn/) | [政策文件](http://zwgk.cma.gov.cn/zfxxgk/gknr/wjgk/gfxwj/)  | [政策解读](http://zwgk.cma.gov.cn/zfxxgk/gknr/wjgk/zcjd/)  | [公告通知](http://www.cma.gov.cn/2011zwxx/2011ztzgg/) 
-45. 中国证券监督管理委员会 | [主页](http://www.csrc.gov.cn/pub/newsite/) | [监管信息公开目录](http://www.csrc.gov.cn/pub/zjhpublic/index.htm?channel=3300/3311) （分类较多，比较细致有条理）
-46. 中国科学院 | [主页](https://www.cas.cn/) | [规章制度 > 综合性政策文件](https://www.cas.cn/gzzd/zkxzc/) （还有11个栏目：综合性政策文件，学部工作与科技智库建设，科研活动管理，人力资源管理，教育管理，国际合作交流，科普与科学传播，党的建设与群团工作，监督审计，离退休工作，公共事务管理）
-47. 中国工程院 | [主页](https://www.cae.cn/) | [政策文件](https://www.cae.cn/cae/html/main/col25/column_25_1.html) 
-48. 中央广播电视总台 | [主页](http://www.cnr.cn/)
-49. 中国银行保险监督管理委员会 | [主页](https://www.cbirc.gov.cn/) | [政务信息 ](https://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengwuxinxi.html) （政府信息公开，公告通知，政策法规，行政许可，行政处罚，行政监管措施，人事信息，《工作论文》，金融监管研究）
+目前已经完成国家部委的信息发布官方网址，约80个网址。接下来将分两步继续收集：
+1. 收集省级部门的官方发布源，预估28\*80=2240 个信息源。
+2. 收集直辖市部门和区部门的信息发布源，80\*80=6400 个信息源。
+3. 收集地市部门的信息发布源，预估294\*80=23520 个信息源。
 
->说明：国家行政学院与中央党校，一个机构两块牌子，作为党中央直属事业单位。
+## 合作联系
 
-1. 国家行政学院与中央党校 | [主页](https://www.ccps.gov.cn/)
-
-
-## 国务院部委管理的国家局：
-
-50. 国家信访局（由国务院办公厅管理） | [主页](https://www.gjxfj.gov.cn) | [法规文件](https://www.gjxfj.gov.cn/gjxfj/fgwj/index.htm)  | [信访条例](https://www.gjxfj.gov.cn/gjxfj/fgwj/xftl.htm)  | [规范性文件](https://www.gjxfj.gov.cn/gjxfj/fgwj/gfxwj.htm)  | [政策解读](https://www.gjxfj.gov.cn/gjxfj/fgwj/zcjd.htm)  | [国务院文件](https://www.gjxfj.gov.cn/gjxfj/fgwj/gwywj.htm) 
-51. 国家能源局（由国家发展和改革委员会管理） | [主页](http://www.nea.gov.cn/) | [最新文件](http://www.nea.gov.cn/policy/zxwj.htm)  | [通知](http://www.nea.gov.cn/policy/tz.htm)  | [公告](http://www.nea.gov.cn/policy/gg.htm)  | [项目核准](http://www.nea.gov.cn/policy/xmsp.htm)  | [解读](http://www.nea.gov.cn/policy/jd.htm)   | [其他](http://www.nea.gov.cn/policy/qt.htm) 
-52. 国家烟草专卖局（由工业和信息化部管理） | [主页](http://www.tobacco.gov.cn/) | [行政规范文件](http://www.tobacco.gov.cn/gjyc/xzgfwj/xxgk_gknr_list.shtml)  | [政策文件库](http://www.tobacco.gov.cn/gjyc/zcwjk/zck.shtml?tab=zcwj) 
-53. 国家林业和草原局（由自然资源部管理） | [主页](http://www.forestry.gov.cn/) | [政策公告 > 国务院文件](http://www.forestry.gov.cn/main/4815/index.html)  | [政策公告 > 林草政策](http://www.forestry.gov.cn/main/5461/index.html) | [公示公告](http://www.forestry.gov.cn/main/4461/index.html)  | [规范性文件](http://www.forestry.gov.cn/sites/main/main/gfxwj/gfxwj-list.jsp) 
-54. 中国民用航空局（由交通运输部管理） | [主页](http://www.caac.gov.cn) | [政策发布](http://www.caac.gov.cn/XXGK/XXGK/index_172.html?fl=10) （包括多个法定主动公开内容栏目）
-55. 国家文物局（由文化和旅游部管理） | [主页](http://www.ncha.gov.cn/) | [法定主动公开内容](http://www.ncha.gov.cn/col/col2237/index.html?id=0) （0-19）
-56. 国家矿山安全监察局（由应急管理部管理） | [主页](https://www.chinamine-safety.gov.cn/) | [法定主动公开内容](https://www.chinamine-safety.gov.cn/zfxxgk/fdzdgknr/tzgg/) 
-57. 国家药品监督管理局（由国家市场监督管理总局管理） | [主页](https://www.nmpa.gov.cn/) | [法规文件](https://www.nmpa.gov.cn/xxgk/fgwj/index.html) （包括：法律行政法规，部门规章，工作文件，其他）
-58. 国家粮食和物资储备局（由国家发展和改革委员会管理） | [主页](http://www.lswz.gov.cn) | [法定主动公开内容](http://www.lswz.gov.cn/html/zfxxgk/fdzdgknr.shtml) （包括：机构信息，政策法规，粮食调控，规划建设，统计信息，行政许可，财务信息，扶贫信息，监督检查，人事人才，标准质量，综合信息）
-59. 国家国防科技工业局（由工业和信息化部管理） | [主页](http://www.sastind.gov.cn/) | [国防科技工业相关政策文件	](http://www.sastind.gov.cn/n4235/n6654336/index.html) 
-60. 国家移民管理局（由公安部管理） | [主页](https://www.nia.gov.cn/) | [政策文件](https://www.nia.gov.cn/n741440/n741547/index.html)  | [政策解读](https://www.nia.gov.cn/n741440/n741577/index.html) 
-61. 国家铁路局（由交通运输部管理） | [主页](http://www.nra.gov.cn/) | [行政许可](http://www.nra.gov.cn/wsbs/xzxk/xzxkxm/) （包括：权力清单，规章制度，许可公告，行政审批中介服务事项清单） | [监管履职](http://www.nra.gov.cn/jgzf/) 
-62. 国家邮政局（由交通运输部管理） | [主页](http://www.spb.gov.cn/) | [政策](http://www.spb.gov.cn/zc/) （包括：法律法规及政策、规划及科技标准、决策解读）
-63. 国家中医药管理局（由国家卫生健康委员会管理） | [主页](http://www.satcm.gov.cn/) | [政策文件](http://www.satcm.gov.cn/zhengcewenjian/) （包括：政策文件、法律法规、政策解读）
-64. 国家外汇管理局（由中国人民银行管理） | [主页](http://www.safe.gov.cn/safe/index.html) | [政策法规](http://www.safe.gov.cn/safe/zcfg/index.html) （包括7个2级分类）
-65. 国家知识产权局（由国家市场监督管理总局管理） | [主页](https://www.cnipa.gov.cn/) | [政策文件](https://www.cnipa.gov.cn/col/col74/index.html)  | [政策解读](https://www.cnipa.gov.cn/col/col66/index.html) 
-
-
->说明：国家移民管理局加挂中华人民共和国出入境管理局牌子。国家林业和草原局加挂国家公园管理局牌子。国家公务员局在中央组织部加挂牌子，由中央组织部承担相关职责。国家档案局与中央档案馆、国家保密局与中央保密委员会办公室、国家密码管理局与中央密码工作领导小组办公室，一个机构两块牌子，列入中共中央直属机关的下属机构序列。
-
-1. 中华人民共和国出入境管理局 | [主页](https://www.nia.gov.cn/)
-2. 国家公园管理局 | [主页](http://www.forestry.gov.cn/)
-3. 国家公务员局 | [主页](http://www.scs.gov.cn/) | [政策法规](http://www.scs.gov.cn/zcfg/) 
-4. 国家档案局与中央档案馆 | [主页](https://www.saac.gov.cn/) | [档案政策法规库](https://www.saac.gov.cn/daj/falv/dazc_list.shtml) （包括：法律，行政法规，部门规章，规范性文件，地方性法规，作废政策法规，其他文件库） | [档案标准库](https://www.saac.gov.cn/daj/gjbz/dabz_list.shtml) （包括：国家标准，行业标准，失效标准）
-5. 国家保密局与中央保密委员会办公室 | [主页](http://www.gjbmj.gov.cn/) | [政策法规](http://www.gjbmj.gov.cn/409049/index.html) 
-6. 国家密码管理局与中央密码工作领导小组办公室 | [主页](https://www.oscca.gov.cn/) | [政策法规](https://www.oscca.gov.cn/sca/xxgk/zcfg.shtml) （包括：4个二级栏目）
-
-
-（国务院机构和部委管理的国家局设置信息，据国发〔2018〕6号、国发〔2018〕7号等文件）
+vx：changwugg 请备注“政策发布信息源”
 
 ---
 
-## 23个省、5个自治区、4个直辖市、2个特别行政区（寻求小伙伴帮助补充~）：
 
-
-[北京](链接)，[天津](链接)，[河北](链接)，[山西](链接)，[内蒙古](链接)，[辽宁](链接)，[吉林](链接)，[黑龙江](链接)，[上海](链接)，[江苏](链接)，[浙江](链接)，[安徽](链接)，[福建](链接)，[江西](链接)，[山东](链接)，[河南](链接)，[湖北](链接)，[湖南](链接)，[广东](链接)，[广西](链接)，[海南](链接)，[重庆](链接)，[四川](链接)，[贵州](链接)，[云南](链接)，[西藏](链接)，[陕西](链接)，[甘肃](链接)，[青海](链接)，[宁夏](链接)，[新疆](链接)，[香港](链接)，[澳门](链接)，[台湾](链接)
 
