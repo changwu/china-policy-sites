@@ -23,8 +23,10 @@
 
 ## 如何加入
 
-1. 熟悉git和markdown操作者：fork项目，新建以省（直辖市）或地级市命名的md文件或修改已经存在的文件，提交pull request。
-2. 不熟悉git操作者：可以用excel整理，发给changwu。参考格式：
+1. 熟悉git和markdown操作者：
+    - fork项目，新建以省（直辖市）或地级市命名的md文件或修改已经存在的文件，提交pull request。
+    - 或者讲GitHub账号发给发起人changwu，由发起人加入团队。
+3. 不熟悉git操作者：可以用excel整理，发给changwu。参考格式：
 
     x省xx市xxx部门 | 政策栏目1 (http://....) | 政策栏目2 (http://....) | 政策栏目3 (http://....)
 
