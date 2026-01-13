@@ -41,6 +41,7 @@ vx：changwugg 请备注“政策发布信息源”
 ## 贡献者
 
 1. 阿昌 https://github.com/changwu
+2. Logic-logic-logic https://github.com/Logic-logic-logic
 
 
 
